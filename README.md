@@ -1,3 +1,3 @@
-# progetto Basi di Dati 2022
+# Basi di Dati 2022
 
-Social Market
+Progetto Social Market
